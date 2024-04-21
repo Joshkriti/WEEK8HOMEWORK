@@ -1,4 +1,4 @@
-package week8homework;
+package week8homework.question_1;
 
 public class Codebuster_Q1 {
     /*

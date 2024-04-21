@@ -1,6 +1,6 @@
-package week8homework;
+package week8homework.question_1;
 
-public class Sub_class_Q1 extends Codebuster_Q1{
+public class Sub_class_Q1 extends Codebuster_Q1 {
 
     public static void main(String[] args) {
         Sub_class_Q1 S = new Sub_class_Q1();
