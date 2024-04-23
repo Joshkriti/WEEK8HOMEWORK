@@ -6,8 +6,8 @@ public class Sub_Class_Cat extends Animal {
 each subclass to make a specific sound for each animal.
      */
     public static void main(String[] args) {
-        Sub_Class_Cat S = new Sub_Class_Cat();
-        S.Sound();
+        Sub_Class_Cat N = new Sub_Class_Cat();
+        N.Sound();
 
     }
 

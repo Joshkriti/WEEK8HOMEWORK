@@ -22,6 +22,7 @@ Hint:
      */
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
 
         int sum = 0;
@@ -30,9 +31,11 @@ Hint:
             System.out.println("Enter number " + i + ":");
             int number = scanner.nextInt();
             sum += number;
+
         }
         System.out.println("Print sum of the 10 number: " + sum);
 
+        System.out.println("Invalid Number");
 
 
     }
