@@ -3,6 +3,9 @@ package week8homework.question_3;
 import java.util.Scanner;
 
 public class Sub_Class_SavingsAccount extends BankAccount{
+    /* Create a subclass called SavingsAccount that overrides the
+    withdraw() method to prevent withdrawals if the account balance falls below one
+    hundred. */
 
     public static void main(String[] args) {
         Sub_Class_SavingsAccount S = new Sub_Class_SavingsAccount();

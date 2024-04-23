@@ -7,6 +7,7 @@ public class Sub_Class_Panthera extends Sub_Class_Bird{
         S.makeSound();
         S.move();
 
+
     }
 
     @Override
