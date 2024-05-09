@@ -1,4 +1,4 @@
-package week8homework2.Q17_carpetcostcalcularor;
+package week8homework2.q17_carpetcostcalcularor;
 
 public class Main {
     public static void main(String[] args) {
